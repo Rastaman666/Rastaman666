@@ -1,0 +1,17 @@
+{
+  "name": "Vovan Power 2",
+  "symbol": "VP2",
+  "description": "This is a sample token for Vovan Power 2.",
+  "image": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "Fast"
+    },
+    {
+      "trait_type": "Power",
+      "value": "High"
+    }
+  ]
+}
