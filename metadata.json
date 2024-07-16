@@ -1,0 +1,12 @@
+{
+  "name": "Vovan Power",
+  "symbol": "VP",
+  "description": "This is Vovan Power token",
+  "image": "https://topnews.media/rasta.png",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "100"
+    }
+  ]
+}
