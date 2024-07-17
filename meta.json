@@ -1,10 +1,7 @@
 {
-  "name": "Vovan Power!", 
+  "name": "Vovan Power", 
   "symbol": "VP",
-  "uri": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/meta.json",
+  "image": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png",
   "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
 }
 
