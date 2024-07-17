@@ -1,12 +1,22 @@
 {
-  "name": "Vovan Power",
-  "symbol": "VP",
-  "description": "This is Vovan Power token",
-  "image": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png",
-  "attributes": [
-    {
-      "trait_type": "Power",
-      "value": "100"
-    }
-  ]
+    "key": 4,
+    "updateAuthority": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE",
+    "mint": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE3L1sT7dmKKeam44zzNahXxV9Go8SLFoxkYU5tz8tVdi1",
+    "data": {
+        "name": "TRUMPS EAR WIF",
+        "symbol": "EARWIF",
+        "uri": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png",
+        "sellerFeeBasisPoints": 0,
+        "creators": [
+            {
+                "address": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE",
+                "verified": 1,
+                "share": 100
+            }
+        ]
+    },
+    "primarySaleHappened": 0,
+    "isMutable": 1,
+    "editionNonce": 254,
+    "tokenStandard": 2
 }
