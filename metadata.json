@@ -1,22 +1,15 @@
 {
     "key": 4,
     "updateAuthority": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE",
-    "mint": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE3L1sT7dmKKeam44zzNahXxV9Go8SLFoxkYU5tz8tVdi1",
+    "mint": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE",
     "data": {
-        "name": "TRUMPS EAR WIF",
-        "symbol": "EARWIF",
-        "uri": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png",
-        "sellerFeeBasisPoints": 0,
-        "creators": [
-            {
-                "address": "9GNEcztASKM5VTFU77BMVqd2DppLC52taUsJ3zzfDfEE",
-                "verified": 1,
-                "share": 100
-            }
-        ]
+        "name": "Vovan Power",
+        "symbol": "VP",
+        "uri": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/meta.json",
+        "sellerFeeBasisPoints": 0
     },
     "primarySaleHappened": 0,
-    "isMutable": 1,
-    "editionNonce": 254,
+    "isMutable": 0,
+    "editionNonce": 252,
     "tokenStandard": 2
 }
