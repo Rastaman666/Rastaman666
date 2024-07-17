@@ -5,6 +5,7 @@
     "data": {
         "name": "Robojop Power",
         "symbol": "RoboJop",
+        "image": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/580406.png"
         "uri": "https://raw.githubusercontent.com/Rastaman666/Rastaman666/main/robojop_uri.json",
         "sellerFeeBasisPoints": 0
     },
